@@ -1,7 +1,3 @@
-Aquí tienes un archivo `README.md` inspirado en el estilo y estructura del que compartiste, pero centrado en el uso de **widgets de Flutter**:
-
----
-
 # 📱 Flutter Widget Explorer
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
