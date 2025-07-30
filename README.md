@@ -1,16 +1,18 @@
-# app_codigo_state
+# Desarrollo móvil con Flutter
 
-A new Flutter project.
+Este repositorio contiene ejemplos y demostraciones sobre el uso de diversos Widgets en Flutter, como Container, Column, Divider, Text, Image, entre otros.
 
-## Getting Started
+## Descripción
 
-This project is a starting point for a Flutter application.
+El objetivo de este proyecto es mostrar cómo implementar y utilizar diferentes Widgets en Flutter para el desarrollo móvil. Cada ejemplo incluye una breve explicación y muestra visual para facilitar el aprendizaje.
 
-A few resources to get you started if this is your first Flutter project:
+## Principales características
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Uso de Widgets fundamentales: Container, Column, Divider, Text, Image, etc.
+- Ejemplos prácticos y fáciles de entender.
+- Código organizado para facilitar la reutilización y adaptación.
+- Ideal para quienes inician en el desarrollo móvil con Flutter.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Instalación
+
+1. Clona el repositorio:
