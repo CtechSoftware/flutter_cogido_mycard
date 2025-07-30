@@ -48,7 +48,3 @@ Pasos para contribuir:
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
-
----
-
-¿Quieres que también genere los archivos de ejemplo o estructura del proyecto Flutter?
